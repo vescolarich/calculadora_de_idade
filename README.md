@@ -2,4 +2,4 @@
 Estou dando progresso aos meus estudo de Javascript
 
 
-Insira o ano de seu nascimento e seu genero 
+Insira o ano de seu nascimento e seu genero nos campos solicitados
