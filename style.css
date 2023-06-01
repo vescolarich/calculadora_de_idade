@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(0, 0, 255, 0.518);
+}
+
+.principal{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.principal_box{
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    margin-top: 2%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px;
+}
+
+.principal_box_texto{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.principal_box_botao{
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+#res{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#foto{ 
+    width: 250px;  
+    height: 250px;
+    border-radius: 50%;
+}
+
+#res2{
+    margin-top: 5%;
+    
+}
+
+.principal_titulo{
+    margin-top: 2%;
+    color: whitesmoke;
+}
